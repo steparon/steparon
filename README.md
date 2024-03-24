@@ -1,4 +1,5 @@
-![Navy Blue Futuristic Virtual Technology Banner](https://github.com/steparon/steparon/assets/138889090/12a65a68-a2db-455d-a514-d3fdc38f9fdf)
+![image](https://github.com/steparon/steparon/assets/138889090/1cb9bf45-13ee-4787-bd7e-c9dae354720d)
+
 
 
 
