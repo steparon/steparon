@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **kateryna.stepanova99@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
