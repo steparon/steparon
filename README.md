@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steparon&label=Profile%20views&color=0e75b6&style=flat" alt="steparon" /> </p>
 
 
-- 🌱 I’m currently learning **Java and JavaScript**
+- 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **kateryna.stepanova99@gmail.com**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,git,kubernetes,docker" />
+    <img src="https://skillicons.dev/icons?i=java,idea,spring,gradle,docker,vscode,html,css,js"/>
   </a>
 </p>
 
