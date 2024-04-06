@@ -1,6 +1,7 @@
 ![image](https://github.com/steparon/steparon/assets/138889090/1cb9bf45-13ee-4787-bd7e-c9dae354720d)
 
-<h1 align="center">Hi there, I'm Kateryna ![image](https://github.com/steparon/steparon/assets/138889090/d12b666d-0368-4135-b6e0-1320bc3cc67b)
+<h1 align="center">Hi there, I'm Kateryna ![image](https://github.com/steparon/steparon/assets/138889090/a7e35b1e-8619-4f06-a447-6fc4d63e7fca)
+
 </h1>
 <h3 align="center">A passionate full stack developer</h3>
 
