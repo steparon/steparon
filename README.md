@@ -1,6 +1,7 @@
 ![image](https://github.com/steparon/steparon/assets/138889090/1cb9bf45-13ee-4787-bd7e-c9dae354720d)
 
-<h1 align="center">Hi 👋, I'm Kateryna</h1>
+<h1 align="center">Hi there, I'm Kateryna ![image](https://github.com/steparon/steparon/assets/138889090/d12b666d-0368-4135-b6e0-1320bc3cc67b)
+</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steparon&label=Profile%20views&color=0e75b6&style=flat" alt="steparon" /> </p>
