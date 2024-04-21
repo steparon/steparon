@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **kateryna.stepanova99@gmail.com**
 
+- I am currenctly working on
+
 <p align="left">
 </p>
 
