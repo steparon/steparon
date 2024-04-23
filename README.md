@@ -11,9 +11,11 @@
 
 - 📫 How to reach me **kateryna.stepanova99@gmail.com**
 
-- Now I am working on
+- Now I am working on Currency Converter
+  
 
-<p align="left">
+<p align
+="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
