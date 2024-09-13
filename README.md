@@ -1,4 +1,3 @@
-![image](https://github.com/steparon/steparon/assets/138889090/1cb9bf45-13ee-4787-bd7e-c9dae354720d)
 
 <h1 align="center">Hi there, I'm Kateryna 
 </h1>
@@ -6,12 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steparon&label=Profile%20views&color=0e75b6&style=flat" alt="steparon" /> </p>
 
-
-- 🌱 I’m currently learning 🐳**Docker**
-
 - 📫 How to reach me **kateryna.stepanova99@gmail.com**
-
-- Now I am working on Currency Converter
   
 
 <p align
