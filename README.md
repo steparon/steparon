@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steparon&" alt="steparon" /></p>
+
 
 
 
